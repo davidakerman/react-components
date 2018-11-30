@@ -1,4 +1,4 @@
-# Open-sourced React and React Native Components used in Edumonk Systems 
+# Open-sourced React and React Native Components
 
 ### Components are based on - [Ant Design](https://github.com/ant-design/ant-design) for react and [react native elements](https://github.com/react-native-training/react-native-elements) for react-native
 ------------
